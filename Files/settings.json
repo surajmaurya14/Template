@@ -1,0 +1,52 @@
+{
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 24,
+    "editor.fontWeight": "bold",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.linkedEditing": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "prettier.tabWidth": 4,
+    "extensions.autoUpdate": false,
+
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Default Light+",
+
+    "window.restoreFullscreen": true,
+    "window.menuBarVisibility": "toggle",
+
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.lineHeight": 1.4,
+
+    "liveFrame.url": "http://localhost:3000",
+    "liveFrame.title": "Local Development",
+    "liveFrame.pane": "Beside",
+
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "window.zoomLevel": 1,
+    "svg.preview.mode": "svg"
+}
